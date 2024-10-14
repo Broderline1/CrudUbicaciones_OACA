@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\CrudUbicacion_OACA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273DF0C7-2418-4CF1-ADA8-F303A88A94EE}|DAL\\DAL.csproj|C:\\Proyectos\\CrudUbicacion_OACA\\dal\\ubicaciones dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273DF0C7-2418-4CF1-ADA8-F303A88A94EE}|DAL\\DAL.csproj|solutionrelative:dal\\ubicaciones dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660C653A-FC7B-428F-AAC4-AB1903F19CA9}|CrudUbicacion_OACA\\CrudUbicacion_OACA.csproj|C:\\Proyectos\\CrudUbicacion_OACA\\crudubicacion_oaca\\frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660C653A-FC7B-428F-AAC4-AB1903F19CA9}|CrudUbicacion_OACA\\CrudUbicacion_OACA.csproj|solutionrelative:crudubicacion_oaca\\frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273DF0C7-2418-4CF1-ADA8-F303A88A94EE}|DAL\\DAL.csproj|C:\\Proyectos\\CrudUbicacion_OACA\\dal\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273DF0C7-2418-4CF1-ADA8-F303A88A94EE}|DAL\\DAL.csproj|solutionrelative:dal\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660C653A-FC7B-428F-AAC4-AB1903F19CA9}|CrudUbicacion_OACA\\CrudUbicacion_OACA.csproj|c:\\proyectos\\crudubicacion_oaca\\crudubicacion_oaca\\frmubicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{660C653A-FC7B-428F-AAC4-AB1903F19CA9}|CrudUbicacion_OACA\\CrudUbicacion_OACA.csproj|solutionrelative:crudubicacion_oaca\\frmubicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94FD67B-47D3-482F-82B3-170EB9913B3E}|BLL\\BLL.csproj|C:\\Proyectos\\CrudUbicacion_OACA\\bll\\ubicaciones bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94FD67B-47D3-482F-82B3-170EB9913B3E}|BLL\\BLL.csproj|solutionrelative:bll\\ubicaciones bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 125,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUbicaciones.aspx",
+              "DocumentMoniker": "C:\\Proyectos\\CrudUbicacion_OACA\\CrudUbicacion_OACA\\frmUbicaciones.aspx",
+              "RelativeDocumentMoniker": "CrudUbicacion_OACA\\frmUbicaciones.aspx",
+              "ToolTip": "C:\\Proyectos\\CrudUbicacion_OACA\\CrudUbicacion_OACA\\frmUbicaciones.aspx",
+              "RelativeToolTip": "CrudUbicacion_OACA\\frmUbicaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-13T22:00:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUbicaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Proyectos\\CrudUbicacion_OACA\\CrudUbicacion_OACA\\frmUbicaciones.aspx.cs",
+              "RelativeDocumentMoniker": "CrudUbicacion_OACA\\frmUbicaciones.aspx.cs",
+              "ToolTip": "C:\\Proyectos\\CrudUbicacion_OACA\\CrudUbicacion_OACA\\frmUbicaciones.aspx.cs",
+              "RelativeToolTip": "CrudUbicacion_OACA\\frmUbicaciones.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:56:23.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLDBHelper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\CrudUbicacion_OACA\\DAL\\SQLDBHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\SQLDBHelper.cs",
+              "ToolTip": "C:\\Proyectos\\CrudUbicacion_OACA\\DAL\\SQLDBHelper.cs",
+              "RelativeToolTip": "DAL\\SQLDBHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:31:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ubicaciones DAL.cs",
+              "DocumentMoniker": "C:\\Proyectos\\CrudUbicacion_OACA\\DAL\\ubicaciones DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ubicaciones DAL.cs",
+              "ToolTip": "C:\\Proyectos\\CrudUbicacion_OACA\\DAL\\ubicaciones DAL.cs",
+              "RelativeToolTip": "DAL\\ubicaciones DAL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:15:38.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ubicaciones BLL.cs",
+              "DocumentMoniker": "C:\\Proyectos\\CrudUbicacion_OACA\\BLL\\ubicaciones BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ubicaciones BLL.cs",
+              "ToolTip": "C:\\Proyectos\\CrudUbicacion_OACA\\BLL\\ubicaciones BLL.cs",
+              "RelativeToolTip": "BLL\\ubicaciones BLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:14:29.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
